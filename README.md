@@ -2,6 +2,7 @@
 ## Preprocessing Pipeline
 
  (`Preprocessing.ipynb`) for preprocessing heart MRI datasets for heart segmentation tasks. The workflow is built around the Medical Segmentation Decathlon (MSD) - Task02_Heart dataset.
+ 
  ![sagital-view-sample](image/sagital-sample.png)
 
 
